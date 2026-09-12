@@ -1,0 +1,53 @@
+How to install git in Windows?
+
+1.	 Install Git
+              
+   Download from: https://git-scm.com
+   Use Git Bash on Windows.
+
+2.	Set Up Git (First Time Only)
+
+  git config --global user.name "Your Name"
+        git config --global user.email your@email.com  
+
+3.	Initialize a New Repository
+
+         git init
+       
+4.	Add Files
+        git add .   
+
+
+5.	Commit Changes
+       git commit -m "Initial commit"
+
+6.	Connect to GitHub Remote
+   git remote add origin https://github.com/your-username/your-repo.git
+
+
+7.	Push to GitHub
+   git push -u origin main
+
+
+
+
+  Git workflow:
+ 
+
+https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpxeexqyfvf4hw3zxtbn.png
+
+
+
+
+
+
+    
+
+ 
+
+
+
+
+   
+  
+     

@@ -8,7 +8,7 @@ How to install git in Windows?
 2.	Set Up Git (First Time Only)
 
   git config --global user.name "Your Name"
-        git config --global user.email your@email.com  
+        git config --global user.email your@email.com
 
 3.	Initialize a New Repository
 
@@ -29,13 +29,7 @@ How to install git in Windows?
    git push -u origin main
 
 
-
-
-  Git workflow:
- 
-
-https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpxeexqyfvf4hw3zxtbn.png
-
+     
 
 
 
